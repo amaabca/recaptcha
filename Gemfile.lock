@@ -41,7 +41,7 @@ GEM
       byebug (~> 8.0)
       pry (~> 0.10)
     rainbow (2.1.0)
-    rake (10.4.2)
+    rake (13.0.1)
     rubocop (0.40.0)
       parser (>= 2.3.1.0, < 3.0)
       powerpack (~> 0.1)
