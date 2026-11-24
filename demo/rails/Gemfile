@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'dotenv-rails', groups: [:development, :test]
-gem 'rails', '4.2.5'
+gem 'dotenv-rails', '>= 2.7.6', groups: [:development, :test]
+gem 'rails', '8.0.5.2'
 gem 'sqlite3'
 gem 'recaptcha', require: 'recaptcha/rails', path: '../..'
